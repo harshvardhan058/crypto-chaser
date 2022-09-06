@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/crypto-chaser/static/css/main.deb4d580.chunk.css",
+    "main.js": "/crypto-chaser/static/js/main.64820215.chunk.js",
+    "main.js.map": "/crypto-chaser/static/js/main.64820215.chunk.js.map",
+    "runtime-main.js": "/crypto-chaser/static/js/runtime-main.bfe1a0bb.js",
+    "runtime-main.js.map": "/crypto-chaser/static/js/runtime-main.bfe1a0bb.js.map",
+    "static/css/2.02daa001.chunk.css": "/crypto-chaser/static/css/2.02daa001.chunk.css",
+    "static/js/2.44fef34c.chunk.js": "/crypto-chaser/static/js/2.44fef34c.chunk.js",
+    "static/js/2.44fef34c.chunk.js.map": "/crypto-chaser/static/js/2.44fef34c.chunk.js.map",
+    "index.html": "/crypto-chaser/index.html",
+    "static/css/2.02daa001.chunk.css.map": "/crypto-chaser/static/css/2.02daa001.chunk.css.map",
+    "static/css/main.deb4d580.chunk.css.map": "/crypto-chaser/static/css/main.deb4d580.chunk.css.map",
+    "static/js/2.44fef34c.chunk.js.LICENSE.txt": "/crypto-chaser/static/js/2.44fef34c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bfe1a0bb.js",
+    "static/css/2.02daa001.chunk.css",
+    "static/js/2.44fef34c.chunk.js",
+    "static/css/main.deb4d580.chunk.css",
+    "static/js/main.64820215.chunk.js"
+  ]
+}
